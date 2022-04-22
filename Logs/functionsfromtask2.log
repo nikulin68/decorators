@@ -1,0 +1,85 @@
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x109e42a90>, 'Mariya', 'Ivanova'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x109c7f550>, 'Svetlana', 'Rodionova'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x109dac5b0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x109dacdc0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Student object at 0x109dac280>, 'Ruoy', 'Eman', 'your_gender'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: __init__>*<arguments: (<__main__.Student object at 0x109e42d30>, 'Olesya', 'Petrova', 'your_gender'){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x109dacdc0>, <__main__.Student object at 0x109dac280>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x109dacdc0>, <__main__.Student object at 0x109dac280>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x109dacdc0>, <__main__.Student object at 0x109dac280>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x109dac280>, <__main__.Lecturer object at 0x109e42a90>, 'Python', 9){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x109dac280>, <__main__.Lecturer object at 0x109c7f550>, 'Git', 7){}>*<function output: Ошибка>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x109dac280>, <__main__.Lecturer object at 0x109e42a90>, 'Git', 5){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x109dac280>, <__main__.Lecturer object at 0x109e42a90>, 'Git', 6){}>*<function output: None>
+22/04/2022*12:01:31*<name_function: av_grade>*<arguments: (<__main__.Lecturer object at 0x109e42a90>,){}>*<function output: 6.7>
+22/04/2022*12:01:31*<name_function: hv_grade>*<arguments: (<__main__.Student object at 0x109dac280>,){}>*<function output: 8.9>
+22/04/2022*12:01:31*<name_function: get_hv>*<arguments: ([<__main__.Student object at 0x109e42d30>, <__main__.Student object at 0x109dac280>], 'Git'){}>*<function output: 9.4>
+22/04/2022*12:01:31*<name_function: get_av>*<arguments: ([<__main__.Lecturer object at 0x109e42a90>, <__main__.Lecturer object at 0x109c7f550>], 'Git'){}>*<function output: 5.5>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x108ef9790>, 'Mariya', 'Ivanova'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x108ef9940>, 'Svetlana', 'Rodionova'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x108ef9a90>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x108ef9af0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Student object at 0x108ef9b80>, 'Ruoy', 'Eman', 'your_gender'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: __init__>*<arguments: (<__main__.Student object at 0x108d8bfd0>, 'Olesya', 'Petrova', 'your_gender'){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x108ef9af0>, <__main__.Student object at 0x108ef9b80>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x108ef9af0>, <__main__.Student object at 0x108ef9b80>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x108ef9af0>, <__main__.Student object at 0x108ef9b80>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x108ef9b80>, <__main__.Lecturer object at 0x108ef9790>, 'Python', 9){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x108ef9b80>, <__main__.Lecturer object at 0x108ef9940>, 'Git', 7){}>*<function output: Ошибка>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x108ef9b80>, <__main__.Lecturer object at 0x108ef9790>, 'Git', 5){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x108ef9b80>, <__main__.Lecturer object at 0x108ef9790>, 'Git', 6){}>*<function output: None>
+22/04/2022*12:11:45*<name_function: av_grade>*<arguments: (<__main__.Lecturer object at 0x108ef9790>,){}>*<function output: 6.7>
+22/04/2022*12:11:45*<name_function: hv_grade>*<arguments: (<__main__.Student object at 0x108ef9b80>,){}>*<function output: 8.9>
+22/04/2022*12:11:45*<name_function: get_hv>*<arguments: ([<__main__.Student object at 0x108d8bfd0>, <__main__.Student object at 0x108ef9b80>], 'Git'){}>*<function output: 9.4>
+22/04/2022*12:11:45*<name_function: get_av>*<arguments: ([<__main__.Lecturer object at 0x108ef9790>, <__main__.Lecturer object at 0x108ef9940>], 'Git'){}>*<function output: 5.5>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x10ce84790>, 'Mariya', 'Ivanova'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x10cd4f100>, 'Svetlana', 'Rodionova'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x10ce84a60>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x10ce84ac0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10ce84b50>, 'Ruoy', 'Eman', 'your_gender'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10ce84bb0>, 'Olesya', 'Petrova', 'your_gender'){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84ac0>, <__main__.Student object at 0x10ce84b50>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84ac0>, <__main__.Student object at 0x10ce84b50>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84ac0>, <__main__.Student object at 0x10ce84b50>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84b50>, <__main__.Lecturer object at 0x10ce84790>, 'Python', 9){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84b50>, <__main__.Lecturer object at 0x10cd4f100>, 'Git', 7){}>*<function output: Ошибка>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84b50>, <__main__.Lecturer object at 0x10ce84790>, 'Git', 5){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84b50>, <__main__.Lecturer object at 0x10ce84790>, 'Git', 6){}>*<function output: None>
+22/04/2022*12:15:40*<name_function: av_grade>*<arguments: (<__main__.Lecturer object at 0x10ce84790>,){}>*<function output: 6.7>
+22/04/2022*12:15:40*<name_function: hv_grade>*<arguments: (<__main__.Student object at 0x10ce84b50>,){}>*<function output: 8.9>
+22/04/2022*12:15:40*<name_function: get_hv>*<arguments: ([<__main__.Student object at 0x10ce84bb0>, <__main__.Student object at 0x10ce84b50>], 'Git'){}>*<function output: 9.4>
+22/04/2022*12:15:40*<name_function: get_av>*<arguments: ([<__main__.Lecturer object at 0x10ce84790>, <__main__.Lecturer object at 0x10cd4f100>], 'Git'){}>*<function output: 5.5>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x10ce848b0>, 'Mariya', 'Ivanova'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x10ce8e730>, 'Svetlana', 'Rodionova'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x10cd4f100>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x10ce84a60>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10ce84af0>, 'Ruoy', 'Eman', 'your_gender'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10ce84b20>, 'Olesya', 'Petrova', 'your_gender'){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84a60>, <__main__.Student object at 0x10ce84af0>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84a60>, <__main__.Student object at 0x10ce84af0>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10ce84a60>, <__main__.Student object at 0x10ce84af0>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84af0>, <__main__.Lecturer object at 0x10ce848b0>, 'Python', 9){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84af0>, <__main__.Lecturer object at 0x10ce8e730>, 'Git', 7){}>*<function output: Ошибка>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84af0>, <__main__.Lecturer object at 0x10ce848b0>, 'Git', 5){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10ce84af0>, <__main__.Lecturer object at 0x10ce848b0>, 'Git', 6){}>*<function output: None>
+22/04/2022*12:15:45*<name_function: av_grade>*<arguments: (<__main__.Lecturer object at 0x10ce848b0>,){}>*<function output: 6.7>
+22/04/2022*12:15:45*<name_function: hv_grade>*<arguments: (<__main__.Student object at 0x10ce84af0>,){}>*<function output: 8.9>
+22/04/2022*12:15:45*<name_function: get_hv>*<arguments: ([<__main__.Student object at 0x10ce84b20>, <__main__.Student object at 0x10ce84af0>], 'Git'){}>*<function output: 9.4>
+22/04/2022*12:15:45*<name_function: get_av>*<arguments: ([<__main__.Lecturer object at 0x10ce848b0>, <__main__.Lecturer object at 0x10ce8e730>], 'Git'){}>*<function output: 5.5>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x107950b50>, 'Mariya', 'Ivanova'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x1078b3550>, 'Svetlana', 'Rodionova'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x1078cbfa0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x10782e2e0>, 'Some', 'Buddy'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10850ec40>, 'Ruoy', 'Eman', 'your_gender'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: __init__>*<arguments: (<__main__.Student object at 0x10850ec10>, 'Olesya', 'Petrova', 'your_gender'){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10782e2e0>, <__main__.Student object at 0x10850ec40>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10782e2e0>, <__main__.Student object at 0x10850ec40>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x10782e2e0>, <__main__.Student object at 0x10850ec40>, 'Python', 10){}>*<function output: Ошибка>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10850ec40>, <__main__.Lecturer object at 0x107950b50>, 'Python', 9){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10850ec40>, <__main__.Lecturer object at 0x1078b3550>, 'Git', 7){}>*<function output: Ошибка>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10850ec40>, <__main__.Lecturer object at 0x107950b50>, 'Git', 5){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: rate_hw>*<arguments: (<__main__.Student object at 0x10850ec40>, <__main__.Lecturer object at 0x107950b50>, 'Git', 6){}>*<function output: None>
+22/04/2022*12:23:56*<name_function: av_grade>*<arguments: (<__main__.Lecturer object at 0x107950b50>,){}>*<function output: 6.7>
+22/04/2022*12:23:56*<name_function: hv_grade>*<arguments: (<__main__.Student object at 0x10850ec40>,){}>*<function output: 8.9>
+22/04/2022*12:23:56*<name_function: get_hv>*<arguments: ([<__main__.Student object at 0x10850ec10>, <__main__.Student object at 0x10850ec40>], 'Git'){}>*<function output: 9.4>
+22/04/2022*12:23:56*<name_function: get_av>*<arguments: ([<__main__.Lecturer object at 0x107950b50>, <__main__.Lecturer object at 0x1078b3550>], 'Git'){}>*<function output: 5.5>
